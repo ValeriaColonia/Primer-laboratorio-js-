@@ -7,4 +7,4 @@ edad = 22;
 let Esestudiante; 
 Esestudiante = True; 
  
-console.log(minombre)
+console.log(minombre) 
